@@ -11,14 +11,11 @@ Welcome to my GitHub Profile! 🌟
 ## Skills
 
 ### Programming
-[![Programming](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### DDBB
 [![DDBB](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
-### Cloud
-[![Cloud](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,vscode,anaconda,notion,supabase)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,anaconda,notion)](https://skillicons.dev)
 
