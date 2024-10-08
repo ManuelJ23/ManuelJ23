@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! 🌟
 ## Skills
 
 ### Programming
-[![Programming](https://skillicons.dev/icons?i=python,sql)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### DDBB
 [![DDBB](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
