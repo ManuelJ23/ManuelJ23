@@ -14,8 +14,8 @@ Welcome to my GitHub Profile! 🌟
 [![Programming](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### DDBB
-[![DDBB](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+[![DDBB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,vscode,anaconda,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,anaconda,notion,pycharm,markdown)](https://skillicons.dev)
 
